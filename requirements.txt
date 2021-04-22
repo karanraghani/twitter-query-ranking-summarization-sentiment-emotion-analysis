@@ -1,0 +1,12 @@
+tweepy
+pandas
+numpy
+nltk
+spacy
+gensim
+matplotlib
+folium
+sklearn
+wordcloud
+textblob
+geopy
